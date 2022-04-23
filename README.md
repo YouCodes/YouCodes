@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/81671608/164881655-8cd7d82a-a384-4d04-8adb-ce48d9f2e13a.gif)
+![](https://user-images.githubusercontent.com/81671608/164883470-85cad774-ca24-40b2-bc71-27664e24325b.gif)
 ## 👋 Hi, I'm Louis You!
 - 🏫 I've been learning to work as a Software Engineer
 - ✔️ I have experience with MERN Stack + Python + SQL
