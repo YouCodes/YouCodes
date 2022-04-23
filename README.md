@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Louis You!
 - 🏫 I've been learning to work as a Software Engineer
 - ✔️ I have experience with MERN Stack + Python + SQL
-- 📖 I’m currently working with React.js/Next.js, TailwindCSS, and Blockchain Technology in depth
+- 📖 I’m currently working extensively with React.js/Next.js, TailwindCSS, and Blockchain Technology
 - 💞️ I’m looking to collaborate on Blockchain Projects and Hackathons
 - 📫 Contact me: louisyou777@gmail.com
 
