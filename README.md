@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Louis You!
 - 🏫 I've been learning to work as a **Full Stack Developer**
 - ✔️ I have experience with **HTML/CSS/JS** + **MERN Stack** + **Python** + **SQL**
-- 📖 I’m currently working extensively with **React.js/Next.js**, **TailwindCSS**, and **Blockchain Technology**
+- 📖 I’m currently working extensively with **React.js/Next.js**, **TailwindCSS**, **Sanity** and **Blockchain Technology**
 - 🔗 I’m looking to collaborate on **Blockchain Projects** and **Hackathons**
 - 📰 I'll be participating in **Dfinity's Supernova Hackathon**
 - 📫 Contact me: louisyou777@gmail.com
