@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Louis You!
 - 🏫 I'm a **Full Stack Developer** always seeking out the pinnacle of technology
 - ✔️ I have experience with **HTML/CSS/JS** + **MERN Stack** + **Python** + **SQL** + **NoSQL** + **Solidity/Motoko**
-- 📖 I’m currently working extensively with **React.js/Next.js**, **TailwindCSS**, **GraphQL, and **Sanity**
+- 📖 I’m currently working extensively with **React.js/Next.js**, **TailwindCSS**, **GraphQL**, and **Sanity**
 - 🔗 I’m looking to collaborate on Web and Desktop Apps or DApps
 - 📫 Contact me: louis@louisyou.com
 
